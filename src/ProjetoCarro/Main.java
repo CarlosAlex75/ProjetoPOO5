@@ -5,9 +5,9 @@ import java.util.concurrent.Callable;
 public class Main {
     public static void main(String args[]){
         Proprietario proprietario = new Proprietario();
-        Proprietario.nome = "Alex"";
+        Proprietario.nome = "Alex";
         Proprietario.bairro = "Atalaia";
-        Proprietario.cep = "67013150"";
+        Proprietario.cep = "67013150";
         Proprietario.cidade = "Ananindeua";
         Proprietario.estado = "Para";
         Proprietario.cpf = "12344468500";
